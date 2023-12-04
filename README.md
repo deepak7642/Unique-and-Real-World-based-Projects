@@ -56,4 +56,4 @@ Fraud detection protects person information, assets, accounts and transactions t
 
 ---
 
-#### Note - Upcoming more projects
+#### Note - Seeking for more projects click here :- [More notebooks](https://www.kaggle.com/deepakkaura/code)

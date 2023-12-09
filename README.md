@@ -11,7 +11,7 @@ Just after a month of this attack Fiverr come-up with a Kaggle competition on th
 
 * Note : Also, I will try to deploy my ml model to show that which User ID is spammer or not
 
-***Explore the solution here :- [Fiverr notebook including deployment](https://www.kaggle.com/code/deepakkaura/fiverr-end-to-end-project-includes-deployment)***
+***Explore the solution here :- [Fiverr : End-to-End Project includes Deployment notebook](https://www.kaggle.com/code/deepakkaura/fiverr-end-to-end-project-includes-deployment)***
 
 ---
 
@@ -52,7 +52,7 @@ So, what's the goal? looking for model that not only accurately identify genuine
 * **Note :- What is fraud detection?**
 Fraud detection protects person information, assets, accounts and transactions through the real-time, near-real-time analysis of activities by users and other defined entities. It uses background server-based processes that examine users’ and other defined entities’ access and behavior patterns, and typically compares this information to a profile of what’s expected.
 
-***Explore the solution here :- [Fraud Detection](https://www.kaggle.com/code/deepakkaura/ieee-cis-a-story-of-fraud-detection)***
+***Explore the solution here :- [Fraud Detection notebook](https://www.kaggle.com/code/deepakkaura/ieee-cis-a-story-of-fraud-detection)***
 
 ---
 
@@ -65,6 +65,6 @@ The loan approval dataset serves as a compilation of financial records and relat
 * **The Goal :-**
 Favorite Algorithms vs New Algorithm : When it comes to tackling classification problems, the question arises – are the tried-and-true favorite algorithms still the reigning champions, or should we search for new for potentially more effective solutions? Also exploring the confusion matrix, especially the Type-1 Error, Type-2 Error and True Negative results.
 
-***Explore the solution here :- [Loan Approval with deployment](https://www.kaggle.com/code/deepakkaura/finance-a-tale-of-loan-approval)***
+***Explore the solution here :- [Loan Approval with deployment notebook](https://www.kaggle.com/code/deepakkaura/finance-a-tale-of-loan-approval)***
 
 #### Note - Seeking for more projects click here :- [More projects](https://www.kaggle.com/deepakkaura/code)

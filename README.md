@@ -1,6 +1,6 @@
 # Real-World-based-Projects
 
-## Fiverr : End-to-End Project includes Deployment 
+## 1) Fiverr : End-to-End Project includes Deployment 
 
 **Problem statement -**
 Recently attackers are using freelance job sites such as Fiverr to distribute malware disguised as job offers. These job offers contain attachments that pretend to be the job brief but are actually installers for keyloggers such as Agent Tesla or Remote Access Trojan (RATs). Due to this many users lost their earnings, bidding fees and fake client projects, also some users lost their accounts too. Many of my LinkedIn connections faced it and some of them lost their professional growth, side income and stability.
@@ -11,11 +11,11 @@ Just after a month of this attack Fiverr come-up with a Kaggle competition on th
 
 * Note : Also, I will try to deploy my ml model to show that which User ID is spammer or not
 
-***Explore the solution here :- [Fiverr notebook](https://www.kaggle.com/code/deepakkaura/fiverr-end-to-end-project-includes-deployment)***
+***Explore the solution here :- [Fiverr notebook including deployment](https://www.kaggle.com/code/deepakkaura/fiverr-end-to-end-project-includes-deployment)***
 
 ---
 
-## Audit Risk : ML will help !!!  
+## 2) Audit Risk : ML will help !!!  
 
 **Problem Statement and about dataset :-**
 The goal of the dataset is to help the auditors by building a classification model that can predict the fraudulent firm on the basis the present and historical risk factors.
@@ -36,7 +36,7 @@ This research work is a case study of an external government audit company which
 
 ---
 
-## IEEE-CIS : A story of Fraud Detection  
+## 3) IEEE-CIS : A story of Fraud Detection  
 
 **Business Problem :-**
 Ever had that awkward moment at the grocery store or any other place when your card gets declined for no apparent reason, causing a ripple of embarrassment? Imagine that, but we're on a mission to fix it!
@@ -55,5 +55,16 @@ Fraud detection protects person information, assets, accounts and transactions t
 ***Explore the solution here :- [Fraud Detection](https://www.kaggle.com/code/deepakkaura/ieee-cis-a-story-of-fraud-detection)***
 
 ---
+
+## 4) Finance : The Tale of Loan Approval
+
+**Problem Statement:**
+
+The loan approval dataset serves as a compilation of financial records and related data utilized to assess the qualification of individuals or organizations seeking loans from a lending institution. Key factors within the dataset encompass elements like CIBIL score, income, employment status, loan term, loan amount, assets value, and loan status. The challenge lies in leveraging this dataset for machine learning and data analysis purposes, aiming to create models and algorithms that accurately predict the probability of loan approval based on the provided features.
+
+* **The Goal :-**
+Favorite Algorithms vs New Algorithm : When it comes to tackling classification problems, the question arises – are the tried-and-true favorite algorithms still the reigning champions, or should we search for new for potentially more effective solutions? Also exploring the confusion matrix, especially the Type-1 Error, Type-2 Error and True Negative results.
+
+***Explore the solution here :- [Loan Approval with deployment](https://www.kaggle.com/code/deepakkaura/finance-a-tale-of-loan-approval)***
 
 #### Note - Seeking for more projects click here :- [More projects](https://www.kaggle.com/deepakkaura/code)

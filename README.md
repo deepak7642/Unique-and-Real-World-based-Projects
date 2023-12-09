@@ -67,4 +67,6 @@ Favorite Algorithms vs New Algorithm : When it comes to tackling classification 
 
 ***Explore the solution here :- [Loan Approval with deployment notebook](https://www.kaggle.com/code/deepakkaura/finance-a-tale-of-loan-approval)***
 
+----
+
 #### Note - Seeking for more projects click here :- [More projects](https://www.kaggle.com/deepakkaura/code)

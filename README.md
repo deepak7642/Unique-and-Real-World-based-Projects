@@ -69,7 +69,7 @@ Favorite Algorithms vs New Algorithm : When it comes to tackling classification 
 
 ----
 
-## 4) Clustering : a case of churn + telecom sector
+## 5) Clustering : a case of churn + telecom sector
 
 **Problem Statement:**
 
@@ -79,8 +79,8 @@ Customer churn is the percentage of customers that stopped using your company's 
 * Run a K-means cluster analysis
 * Profile the different Clusters
 
-* **The Goal :-**
-* The company will try to create a marketing mix strategy to minimize the Churn rates in the clusters that are the most susespiable to Churn.
+**The Goal :-**
+The company will try to create a marketing mix strategy to minimize the Churn rates in the clusters that are the most susespiable to Churn.
 
 ***Explore the solution here :- [Clustering case notebook](https://www.kaggle.com/code/deepakkaura/clustering-a-case-of-churn-telecom-sector)***
 

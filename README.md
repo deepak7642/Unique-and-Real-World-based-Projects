@@ -69,4 +69,20 @@ Favorite Algorithms vs New Algorithm : When it comes to tackling classification 
 
 ----
 
+## 4) Clustering : a case of churn + telecom sector
+
+**Problem Statement:**
+
+Customer churn is the percentage of customers that stopped using your company's product or service during a certain time frame. There are many approaches to reduce customer churn but for this project we would attempt to predict which customers are the highest risk of churn by using k-means cluster analysis. Outline:
+
+* Look at the different variables to see how it affects churn
+* Run a K-means cluster analysis
+* Profile the different Clusters
+
+* **The Goal :-**
+* The company will try to create a marketing mix strategy to minimize the Churn rates in the clusters that are the most susespiable to Churn.
+
+***Explore the solution here :- [Clustering case notebook](https://www.kaggle.com/code/deepakkaura/clustering-a-case-of-churn-telecom-sector)***
+
+
 #### Note - Seeking for more projects click here :- [More projects](https://www.kaggle.com/deepakkaura/code)

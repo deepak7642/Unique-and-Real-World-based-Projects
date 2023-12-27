@@ -84,5 +84,36 @@ The company will try to create a marketing mix strategy to minimize the Churn ra
 
 ***Explore the solution here :- [Clustering case notebook](https://www.kaggle.com/code/deepakkaura/clustering-a-case-of-churn-telecom-sector)***
 
+----
+
+## 6) CLV 2.0 : A Business Solution
+
+**Problem Statement:**
+
+An UK based retail company was curious to know about their customers, so that they can change their business strategies form which they can acquire more customers or to help their customers for retention, also few additional things wants to know that what's the customer worth in terms of Customer Lifetime Value wise, also some insights to know about UK based customers and Non-UK based customers. So that we can decide our approach for prediction wise.
+
+**Customer Lifetime Value is a monetary value that represents the amount of revenue or profit a customer will give the company over the period of the relationship. CLTV demonstrates the implications of acquiring long-term customers compare to short-term customers.**
+
+**Essence of Customer Lifetime Value : -**
+
+(A) It is a number that represents the total amount spent by a single customer on your products or services over their lifespan.
+
+(B) Calculating your CLV will help you understand how your customers have historically interacted with your business and predict how they may interact with you in the future.
+
+(C) Pinpoint trends, such as the length of your typical customer’s lifespan, their purchasing behavior, and most importantly, how much revenue you tend to make from a single customer.
+
+(D) In a more tangible sense, this metric can also help you to better allocate your marketing resources and prevent churning.
+
+(E) It draws meaningful customer segments these segment can help you to identify the needs of the different-different segment, that will helps you to design an effective business plan and also provide a chance to scale your business.
+
+(F) It can figure out the most profitable customers, but how you are going to make a profit from them, it depends on your strategy.
+
+**The Goal :-**
+Crafting a robust business solution requires merging critical analyses like RFM (Recency, Frequency, Monetary), Customer Segmentation, and Cohort Analysis. In this I'll highlight CLV 2.0, an enhanced version with a primary focus on predicting Customer Lifetime Value. And dive into the deployment phase for a preview of how we're putting this solution into action.
+
+* *Note - Keep an eye out for CLV 3.0, introducing advanced ML techniques. Exciting enhancements are just around the corner!*
+
+  ***Explore the solution here :- [CLV 2.0 notebook](https://www.kaggle.com/code/deepakkaura/clv-2-0-a-business-solution)***
+
 
 #### Note - Seeking for more projects click here :- [More projects](https://www.kaggle.com/deepakkaura/code)

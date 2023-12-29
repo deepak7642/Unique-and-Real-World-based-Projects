@@ -115,5 +115,32 @@ Crafting a robust business solution requires merging critical analyses like RFM 
 
   ***Explore the solution here :- [CLV 2.0 notebook](https://www.kaggle.com/code/deepakkaura/clv-2-0-a-business-solution)***
 
+  -----
+
+  ## 7) JD Generator : AI (...the NLP advance level)
+
+**Problem Statement:**
+
+In the contemporary job market, Organizations struggle with time-consuming, biased, and inconsistent manual processes when creating job descriptions. Meanwhile an Indian AI startup company (...part of Make in India mission) whose mission to revolutionize the job description creation process. So they were seeking for an Data Science Enthusiast who can help them by building AI app for it.
+
+* ***Note - This problem statement I received during that company's hiring process and also got hired.***
+
+**Job Description :-** It's an detailed document that outlines the responsibilities, duties, qualifications, and other essential aspects of a specific job or role within an organization. It serves as a comprehensive guide for both employers and job seekers, providing clarity on what is expected in terms of tasks, skills, and qualifications.
+
+**Challenges in the Current Landscape:**
+* Time-Consuming Manual Processes
+* Biases and Inconsistencies
+* Customization and Personalization Limitations
+* Adapting to a Dynamic Job Market
+
+**Objective:**
+* Automate and Accelerate Job Description Creation
+* Eliminate Bias and Ensure Consistency
+* Enable Customization and Personalization
+* Stay Ahead in the Evolving Job Market
+
+***Explore the solution here :- [JD Generator notebook](https://www.kaggle.com/code/deepakkaura/jd-generator-ai-the-nlp-advance-level)***
+
+------
 
 #### Note - Seeking for more projects click here :- [More projects](https://www.kaggle.com/deepakkaura/code)

@@ -117,7 +117,7 @@ Crafting a robust business solution requires merging critical analyses like RFM 
 
   -----
 
-  ## 7) JD Generator : AI (...the NLP advance level)
+## 7) JD Generator : AI (...the NLP advance level)
 
 **Problem Statement:**
 
